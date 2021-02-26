@@ -1,11 +1,8 @@
 ### Hi,  Ladies or Gentlemen👋
 
 [![yinleiCoder's github stats](https://github-readme-stats.vercel.app/api?username=yinleiCoder&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-<br>
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinleiCoder&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinleiCoder&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 我是尹磊:basketball_man:——"躲猫猫"开发者
