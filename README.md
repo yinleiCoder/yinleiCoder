@@ -5,6 +5,9 @@
 <br>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinleiCoder&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 我是尹磊:basketball_man:——"躲猫猫"开发者
 
 <p align="center">
@@ -17,14 +20,12 @@
       <a href="https://github.com/yinleiCoder?tab=repositories">
         <img src="https://badges.pufler.dev/repos/yinleiCoder?style=flat-square&color=black&logo=github">
       </a>
-      <a href="https://gist.github.com/yinleiCoder">
-        <img src="https://badges.pufler.dev/gists/yinleiCoder?style=flat-square&color=black&logo=github">
-      </a>
       <a href="https://github.com/yinleiCoder">
         <img src="https://badges.pufler.dev/commits/monthly/yinleiCoder?style=flat-square&color=black&logo=github">
       </a>
     <br>
 </p>
+
 
 - :sun_with_face:1998/05/05(端午节五月初五午时)
 - :stuck_out_tongue:专业：软件工程 
