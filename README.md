@@ -36,6 +36,7 @@
 - :wilted_flower:微信: yl1099129793 
 - :telephone:电话：13795950539
 - :email:Email: 1099129793@qq.com
+- :smile:最喜欢的技术栈：C++、C、Python、React、Tensorflow
 - :construction:在职公司：中国联合网络通信有限公司绵阳市分公司 
 
 **:fire::fire::fire:如果可以，请为我点个Star吧！Thank you~**
