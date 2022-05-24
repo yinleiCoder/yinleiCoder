@@ -21,22 +21,13 @@ func main() {
 ## Code! Code! Code!
 I love programming as much as i love my life.  
 Below are the skills i'm learning:
-- C
-- C++
-- Go
-- Python
-- Kotlin
-- React
-- Vue
-- Flutter
-- Docker
-- Linux
-- FFmpeg
+- C、C++、Go、Python、Kotlin
+- React、Vue、Flutter
+- Linux、FFmpeg、Docker
 - Cisco Packet Tracer
 - Blender、C4D
 - Adobe PS、AE、PR、Lrc、DN
-- PyTorch
-- Tensorflow
+- PyTorch、Tensorflow
 
 even Hacker and so on.
 
