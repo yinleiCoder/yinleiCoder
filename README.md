@@ -35,9 +35,9 @@ even Hacker and so on.
 
 ## Concat Me
 
-| Name | Wechat | Phone | YouTube | Bilibili |
-| :--- | :---: | :---: | :---: | ---: |
-| 尹磊(YinLei) | yl1099129793 | 13795950539 / ~~18608091120~~ | [lei yin](https://www.youtube.com/channel/UClg53fJlRO-5GAwGoHjxP0A) | [yinleiCoder](https://space.bilibili.com/355529756?spm_id_from=333.976.0.0) |
+| Name | EMail/GMail | Wechat | Phone | YouTube | Bilibili |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| 尹磊(YinLei) | 1099129793@qq.com / yl1099129793@gmail.com | yl1099129793 | 13795950539 / ~~18608091120~~ | [lei yin](https://www.youtube.com/channel/UClg53fJlRO-5GAwGoHjxP0A) | [yinleiCoder](https://space.bilibili.com/355529756?spm_id_from=333.976.0.0) |
 
 > The philosophers have only interpreted the world in various ways.  
 >  The point, however, is to change it.
