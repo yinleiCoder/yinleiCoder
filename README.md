@@ -1,6 +1,6 @@
 # Hi!🖐️ i am **yinlei** from China💕
 
-I'm currently working on China Unicom Company.
+I'm currently working on China Unicom Company(中国联通绵阳市分公司).
 
 ```go 
 package main 
@@ -18,7 +18,7 @@ func main() {
 
 ***
 
-## Code! Code! Code!
+## Technology Stack
 I love programming as much as i love my life.  
 Below are the skills i'm learning:
 - C、C++、Go、Python、Kotlin
