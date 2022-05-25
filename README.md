@@ -39,16 +39,7 @@ even Hacker and so on.
 | :--- | :---: | :---: | :---: | ---: |
 | 尹磊(YinLei) | yl1099129793 | 13795950539 / ~~18608091120~~ | [lei yin](https://www.youtube.com/channel/UClg53fJlRO-5GAwGoHjxP0A) | [yinleiCoder](https://space.bilibili.com/355529756?spm_id_from=333.976.0.0) |
 
-> 注：可关注微信公众号**尹哥**
-
-***
-
-## Worldview And Methodology
-
-- Marxist Philosophy
-- Socialism with Chinese characteristics
-
 > The philosophers have only interpreted the world in various ways.  
 >  The point, however, is to change it.
 
-![尹磊](https://img.zcool.cn/community/01308c5e550d45a80120a8958c9502.gif)
+![中国联通](https://img.zcool.cn/community/014cb86155236511013f22cfb031ad.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100)
