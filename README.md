@@ -21,7 +21,7 @@ func main() {
 ## Technology Stack
 I love programming as much as i love my life.  
 Below are the skills i'm learning:
-- C、C++、Go、Python、Kotlin
+- C、C++、Go、Python、Kotlin、JavaScript
 - React、Vue、Flutter
 - Linux、FFmpeg、Docker
 - Cisco Packet Tracer
