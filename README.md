@@ -1,6 +1,6 @@
 # Hi!🖐️ i am **yinlei** from China💕
 
-I used to work on China Unicom Company(中国联通绵阳市分公司).
+I used to work on China Unicom Company.
 
 ```go 
 package main 
