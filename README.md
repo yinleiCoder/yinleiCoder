@@ -16,24 +16,6 @@ func main() {
 }
 ```
 
-***
-
-## Technology Stack 
-Below are the skills i'm learning: 
-- C、C++、Java、Kotlin、Go、C#、Python、JavaScript 
-- React、Vue、Flutter、Electron、SpringBoot 
-- Linux、Docker
-- MySQL、Mongodb
-- FFmpeg
-- Cisco Packet Tracer 
-- Blender、Procrate
-- Adobe PS、AE、PR、Lrc 
-- PyTorch、Tensorflow   
-
-and so on.
-
-***
-
 ## Concat Me
 
 | Name | EMail/GMail | Wechat | Phone | YouTube | Bilibili | Website |  
