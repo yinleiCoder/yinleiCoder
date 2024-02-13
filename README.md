@@ -16,10 +16,3 @@ func main() {
 }
 ```
 
-## Concat Me
-
-| Name | EMail/GMail | Wechat | Phone | YouTube | Bilibili | Website |  
-| :--- | :---: | :---: | :---: | :---: | :---: | ---: |  
-| YinLei | 1099129793@qq.com / yl1099129793@gmail.com | yl1099129793 | 13795950539 / ~~18608091120~~ | [lei yin](https://www.youtube.com/channel/UClg53fJlRO-5GAwGoHjxP0A) | [yinleiCoder](https://space.bilibili.com/355529756?spm_id_from=333.976.0.0) | [yinlei.pro](https://www.yinlei.pro/) |
-
-
