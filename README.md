@@ -1,4 +1,4 @@
-# Hi!🖐️ i am **yinlei** from China💕
+# Hi!🖐️ i am from China💕
 
 I used to work on China Unicom Company.
 
