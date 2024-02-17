@@ -1,4 +1,4 @@
-# Hi!🖐️ i am from China💕
+# Hi!🖐️ i like C++💕
 
 I used to work on China Unicom Company.
 
