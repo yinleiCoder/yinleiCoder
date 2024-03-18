@@ -1,4 +1,4 @@
-# Hi!🖐️ i like C++💕
+# Hi!🖐️ my friend💕
 
 I used to work on China Unicom Company.
 
@@ -17,4 +17,6 @@ func main() {
     <-done
 }
 ```
+
+I like C++、C# and JavaScript, even Blender.💕
 
