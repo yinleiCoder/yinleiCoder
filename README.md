@@ -18,5 +18,5 @@ func main() {
 }
 ```
 
-I like C++、C# and JavaScript, even Blender.💕
+I like C++、C#、Go、Python and JavaScript, even Blender.💕
 
