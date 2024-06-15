@@ -1,6 +1,7 @@
-# Hi!🖐️ My friend
+# Hi!🖐️
 
-I used to work on China Unicom Company.
+I used to work at **China Unicom**.
+I am now a **computer teacher** in a public school.
 
 My website is here: [yinlei.pro](https://www.yinlei.pro/)
 
@@ -35,7 +36,6 @@ I like C++、C#、Go、Python and JavaScript, even Blender.💕
     <br>
     <img src="./Flutter.png" width="30%" style="display: inline-block"/>
     <img src="./Photoshop.png" width="30%" style="display: inline-block"/>
-    <img src="./Github.png" width="30%" style="display: inline-block"/>
     <br>
 </div>
 
