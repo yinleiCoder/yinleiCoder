@@ -7,6 +7,8 @@
 
 ### 你可能想知道我是谁🤔？(~Just kidding~)
 
+> I'm from China (🇨🇳)
+
 - 曾经，我在<mark>中国联通(网络部)</mark>工作 
 - 现在，我担任公立学校编制内的<mark>教师</mark>
 - 工作技能：cpp游戏逆向工程、rust写点工具、c#桌面软件及游戏开发、javascript网站开发、python数据分析
