@@ -1,6 +1,10 @@
 # 五月的初夏🖐️
 
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/2486630474200742989/5908342FA27E7DEEC79BF0290EF24712518A6FD9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="40%"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="35%" align="right">
+</picture>
 
 - 主要擅长的编程语言：C++、C#、JavaScript、Python
 - 感兴趣的方向：Blender建模、Adobe Ae特效、Adobe Ps修图、Adobe Pr剪辑视频等
