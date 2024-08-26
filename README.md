@@ -11,7 +11,11 @@
 
 ### 我是谁🤔？
 
-> I'm from China (🇨🇳)
+<details>
+<summary>I'm from China (🇨🇳)</summary>
+"I love my country."
+</details>
+
 
 - 曾经，我在<mark>中国联通(网络部)</mark>工作 
 - 现在，我担任公立学校编制内的<mark>教师</mark>
