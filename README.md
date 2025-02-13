@@ -20,7 +20,7 @@
 - 曾经，我在<mark>中国联通(网络部)</mark>工作 
 - 现在，我担任公立学校编制内的<mark>教师</mark>
 - 工作技能：cpp游戏逆向工程、c#桌面软件及游戏开发、javascript网站开发、python数据分析
-- 我的网站：[yinlei.pro](https://yinlei.pro)
+- 我的网站：([yinleilei.com](https://yinleilei.com/))
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/Main_Page)
 [![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
