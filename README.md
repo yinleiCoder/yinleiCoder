@@ -7,7 +7,6 @@
 </picture>
 
 - 主要擅长的编程语言：C++、C#、JavaScript、Python
-- 感兴趣的方向：Blender建模、Adobe Ae特效、Adobe Ps修图、Adobe Pr剪辑视频等
 
 ### 我是谁🤔？
 
@@ -17,10 +16,10 @@
 </details>
 
 
-- 曾经，我在<mark>中国联通(网络部)</mark>工作 
-- 现在，我担任公立学校编制内的<mark>教师</mark>
-- 工作技能：cpp游戏逆向工程、c#桌面软件及游戏开发、javascript网站开发、python数据分析
-- 我的网站：([yinleilei.com](https://yinleilei.com/))
+- 曾经，在<mark>中国联通(网络部)</mark>工作 
+- 现在，担任公立学校编制内的<mark>教师</mark>
+- 工作：cpp游戏逆向工程、c#桌面软件及游戏开发、javascript网站开发、python数据分析
+- 我的网站：[yinleilei.com](https://yinleilei.com/)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/Main_Page)
 [![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
