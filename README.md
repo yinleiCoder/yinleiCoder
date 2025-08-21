@@ -6,8 +6,6 @@
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="35%" align="right">
 </picture>
 
-- 主要擅长的编程语言：C++、C#、JavaScript、Python
-
 ### 我是谁🤔？
 
 <details>
@@ -15,10 +13,9 @@
 "I love my country."
 </details>
 
-
 - 曾经，在<mark>中国联通(网络部)</mark>工作 
 - 现在，担任公立学校编制内的<mark>教师</mark>
-- 工作：cpp游戏逆向工程、c#桌面软件及游戏开发、javascript网站开发、python数据分析
+- 工作：cpp游戏逆向工程、c#桌面软件及后端开发、javascript网站开发、python数据分析、flutter软件开发
 - 我的网站：[yinleilei.com](https://yinleilei.com/)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/Main_Page)
